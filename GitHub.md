@@ -8,13 +8,34 @@ GitHub is a cloud platform for storing, tracking, and collaborating on code usin
 ✅ Build a portfolio that impresses employers  
 
 ### **How to Get Started?**  
-1. **Sign Up:** [GitHub.com](https://github.com)  
-2. **Install Git:** [git-scm.com](https://git-scm.com/)  
-3. **Learn Basic Commands:**  
-   - `git init` → Start a project  
-   - `git add .` → Add changes  
-   - `git commit -m "message"` → Save changes  
-   - `git push origin main` → Upload to GitHub  
+First, create an account on [GitHub](https://github.com/)
+Next, download [git](https://git-scm.com/download). Download git for your operating system.
+To set your user name,  type the following in your terminal:
+```sh
+git config --global user.name "<YOUR NAME>"
+```
+Write your name in place of `<YOUR NAME>`.
 
+To confirm your git username, type in 
+```shell
+git config --global user.name
+```
+check if it shows your name.
+
+To set your github email, type
+
+```shell
+git config --global user.email "youremail@gmail.com"
+```
+
+To check your username, type in:
+```shell
+git config --global user.email
+```
+You will be asked to authenticate your github account. so do it to confirm.
+
+Now, you are all set. You can now create a repository in GitHub.
+![[Pasted image 20250217133906.png]]
+## Links
 📺 **Watch Tutorials:** [YouTube Link]  
 🔗 **More Resources:** [Web Link]
