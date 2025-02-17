@@ -56,16 +56,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C MOC.md",
+                "file": "Concepts in Programming Language/Loops/for Loop.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "C MOC"
+              "title": "for Loop"
+            }
+          },
+          {
+            "id": "fd142a7241fa4159",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "68fa9be406dcb61c",
@@ -139,9 +149,9 @@
           "state": {
             "query": "",
             "matchingCase": false,
-            "explainSearch": false,
+            "explainSearch": true,
             "collapseAll": false,
-            "extraContext": false,
+            "extraContext": true,
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
@@ -186,7 +196,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "While loop code example.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -219,7 +228,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Concepts in Programming Language/Loops.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -229,7 +237,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,22 +249,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b6983c0b7ead50d",
+  "active": "fd142a7241fa4159",
   "lastOpenFiles": [
-    "While loop code example.md",
-    "README.md",
-    "GitHub.md",
-    "For Loop Code Syntax.md",
-    "C/For Loop code in C.md",
-    "C/For Loop syntax in C.md",
-    "C/Introduction to C.md",
-    "C/Loops in C.md",
-    "C MOC.md",
+    "Languages/C/Loops in C.md",
+    "Languages/C/Introduction to C.md",
+    "Languages/C/Codes/For Loop code in C.md",
+    "Concepts in Programming Language/Loops/for Loop.md",
+    "Languages/C/Codes/while loop code in C.md",
+    "Languages/C/Syntax/While loop syntax in C.md",
+    "Languages/Do while loop code example.md",
+    "Concepts in Programming Language/Loops/do while loop.md",
+    "Connecting links(must be blank notes)/Do whille loop code Syntax.md",
+    "Connecting links(must be blank notes)/While loop code Syntax.md",
+    "Concepts in Programming Language/Loops/while loop.md",
     "Concepts in Programming Language/Loops.md",
+    "Concepts in Programming Language/Loops/Infinite Loop.md",
+    "00-chosen_subject.md",
+    "Languages",
+    "Connecting links(must be blank notes)/For Loop Code Example.md",
+    "Languages/C MOC.md",
+    "Connecting links(must be blank notes)",
+    "Connecting links(must be blank notes)/While loop code example.md",
+    "Connecting links(must be blank notes)/For Loop Code Syntax.md",
+    "GitHub.md",
+    "Languages/C/Syntax/For Loop syntax in C.md",
+    "Languages/C/Codes",
+    "Languages/C/Syntax",
+    "README.md",
     "Decision making statements.md",
-    "Loops/while loop.md",
-    "Loops/For Loop.md",
-    "Loops/do while loop.md",
     "DO while loop code example.md",
     "source/Pasted image 20250217151204.png",
     "source/Pasted image 20250217151128.png",
@@ -264,9 +284,9 @@
     "source/Pasted image 20250217150547.png",
     "source/Pasted image 20250217150202.png",
     "source",
-    "Loops",
+    "Concepts in Programming Language/Loops",
     "Concepts in Programming Language",
-    "C",
+    "Languages/C",
     "source/Pasted image 20250217133906.png"
   ]
 }

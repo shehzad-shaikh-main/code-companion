@@ -1,3 +1,0 @@
-![[Loops]]
-
-![[For Loop]]

@@ -1,3 +1,4 @@
+
 Sometimes, there is a need perform some operation more than once or say **n** number of times. For example, suppose we want to print "Hello World" 5 times. WE would have to write it manually in our language
 
 ```pseudocode
@@ -30,6 +31,8 @@ In entry controlled loops, the condition is first checked before the block of co
 In an exit controlled loop, first the block of code is executed and then the condition is checked. This is greatly useful in menu driven applications and games where we need to see some output.
 
 Types of loops:
-![[For Loop]]
+![[for Loop]]
 ![[while loop]]
 ![[do while loop]]
+
+![[Infinite Loop]]
