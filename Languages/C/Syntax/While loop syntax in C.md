@@ -1,3 +1,8 @@
+---
+Links: "[[while loop code syntax]]"
+---
+
+```
 ```syntax
 initialization_expression;  
   

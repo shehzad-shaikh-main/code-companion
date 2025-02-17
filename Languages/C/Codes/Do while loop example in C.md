@@ -1,10 +1,9 @@
 ---
-Links: "[[While loop code example]]"
+Links: "[[Do while loop code example]]"
 ---
-
 ```C
 // C program to illustrate 
-// while loop
+// do-while loop
 #include <stdio.h>
  
 // Driver code
@@ -12,29 +11,23 @@ int main()
 {
   // Initialization expression
   int i = 2; 
- 
-  // Test expression
-  while(i < 10)
+  
+  do
   {
     // loop body
     printf( "Hello World\n");   
-    
-    // update expression
+ 
+    // Update expression
     i++;
-  } 
+    
+    // Test expression
+  }  while (i < 1);   
   
   return 0;
 }
 
 ```
-Output
+output:
 ```Output
-Hello World
-Hello World
-Hello World
-Hello World
-Hello World
-Hello World
-Hello World
 Hello World
 ```
