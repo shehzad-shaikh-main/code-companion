@@ -80,12 +80,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/C/Data Types in C.md",
+                "file": "Operators in C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Types in C"
+              "title": "Operators in C"
             }
           }
         ],
@@ -243,7 +243,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Languages/C/Data Types in C.md",
+            "file": "Operators in C.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -267,10 +267,12 @@
   },
   "active": "43dc7f6eab433d6c",
   "lastOpenFiles": [
+    "C MOC.md",
+    "Operators in C.md",
+    "Languages/C/Scope and lifetime.md",
+    "Languages/C/Data Types in C.md",
     "Languages/C/Introduction to C.md",
     "Languages/C/Loops in C.md",
-    "Languages/C/Data Types in C.md",
-    "C MOC.md",
     "Concepts in Programming Language/Variables.md",
     "Data Structures and Algorithms/Array Data Structure.md",
     "Concepts in Programming Language/Arrays.md",
@@ -303,8 +305,6 @@
     "Connecting links(must be blank notes)/Infinite while loop code.md",
     "Languages/C/Codes/infinite while loop code in C.md",
     "Connecting links(must be blank notes)/Infinite for loop code.md",
-    "Languages/C/Codes/For Loop code in C.md",
-    "Languages/C/Codes/while loop code in C.md",
     "Languages",
     "Connecting links(must be blank notes)",
     "Languages/C/Codes",
