@@ -24,6 +24,7 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "editor:insert-mathblock"
+    "editor:insert-mathblock",
+    "editor:insert-table"
   ]
 }

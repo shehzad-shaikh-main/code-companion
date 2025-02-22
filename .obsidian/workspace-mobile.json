@@ -82,7 +82,7 @@
               "state": {
                 "file": "Operators in C.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Operators in C"
@@ -267,6 +267,7 @@
   },
   "active": "43dc7f6eab433d6c",
   "lastOpenFiles": [
+    "source/Pasted image 20250222201206.png",
     "C MOC.md",
     "Operators in C.md",
     "Languages/C/Scope and lifetime.md",
@@ -304,7 +305,6 @@
     "Connecting links(must be blank notes)/Infinite do while loop code.md",
     "Connecting links(must be blank notes)/Infinite while loop code.md",
     "Languages/C/Codes/infinite while loop code in C.md",
-    "Connecting links(must be blank notes)/Infinite for loop code.md",
     "Languages",
     "Connecting links(must be blank notes)",
     "Languages/C/Codes",
