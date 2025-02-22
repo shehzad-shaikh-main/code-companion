@@ -82,7 +82,7 @@
               "state": {
                 "file": "Operators in C.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Operators in C"

@@ -36,9 +36,4 @@ The arithmetic operators are used to perform arithmetic/mathematical operations 
 |6|+|Unary Plus|Used to specify the positive values.|+a|
 |7|–|Unary Minus|Flips the sign of the value.|-a|
 |8|++|Increment|Increases the value of the operand by 1.|a++|
-|9|—
-
-Decrement
-
-Decreases the value of the operand by 1.	
-a–
+|9|—|Decrement|Decreases the value of the operand by 1.|a–-
